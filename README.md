@@ -1,3 +1,7 @@
+# 参考微信公众号文章：简单易用，过滤器强大的在线图片编辑器
+https://mp.weixin.qq.com/s/i_CpxcXRuReuA5vGEr2eYQ
+
+
 # ![Toast UI ImageEditor](https://user-images.githubusercontent.com/35218826/40895380-0b9f4cd6-67ea-11e8-982f-18121daa3a04.png)
 
 > Full featured image editor using HTML5 Canvas. It's easy to use and provides powerful filters.
